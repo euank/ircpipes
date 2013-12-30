@@ -1,0 +1,28 @@
+{
+  "name": "ircpipe",
+  "version": "0.0.1",
+  "description": "Link a program's stdin/out directly to irc",
+  "main": "app.js",
+  "dependencies": {
+    "commander": "~2.1.0",
+    "irc": "~0.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/euank/ircpipes.git"
+  },
+  "keywords": [
+    "irc",
+    "pipe"
+  ],
+  "author": "EuanK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/euank/ircpipes/issues"
+  },
+  "homepage": "https://github.com/euank/ircpipes"
+}
